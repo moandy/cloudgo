@@ -31,11 +31,18 @@ func main() {
 ## 程序运行
 - 程序运行
 ` go run server.go -port 9090`
+
 ![](https://github.com/moandy/cloudgo/blob/master/picture/cloudgo1.png?raw=true)
+
 - 浏览器运行
+
 ![](https://github.com/moandy/cloudgo/blob/master/picture/cloudgo2.png?raw=true)
+
 - curl 测试
+
 ![](https://github.com/moandy/cloudgo/blob/master/picture/cloudgo3.png?raw=true)
+
 - 压力测试
+
 ![](https://github.com/moandy/cloudgo/blob/master/picture/cloudgo4.png?raw=true)
 ![](https://github.com/moandy/cloudgo/blob/master/picture/cloudgo5.png?raw=true)
